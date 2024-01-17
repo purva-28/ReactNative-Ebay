@@ -38,3 +38,7 @@ Scan the QR code with Expo Go (Android) or the Camera app (iOS)
 
 
 ## Demo
+
+
+https://github.com/purva-28/ReactNative-Ebay/assets/67964272/981d63eb-42fd-4cd7-bae9-8b62c6d2a8d8
+
