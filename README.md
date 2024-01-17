@@ -44,5 +44,5 @@ https://github.com/purva-28/ReactNative-Ebay/assets/67964272/981d63eb-42fd-4cd7-
 
 ## Authors
 
-- Purva Dharmadhikari 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purva-dharmadhikari/) 
+- Purva Dharmadhikari [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purva-dharmadhikari/) 
+
