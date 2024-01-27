@@ -2,7 +2,6 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import Header from './components/header';
 import Form from './components/form';
-import Card from './components/card';
 
 export default function App() {
   return (

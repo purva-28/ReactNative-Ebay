@@ -11,7 +11,7 @@ const Header = () => {
 
 const styles = StyleSheet.create({
   header: {
-    backgroundColor: '#3498db', // You can customize the background color
+    backgroundColor: '#3498db',
     padding: 10,
     marginTop: 80,
     alignItems: 'center',
@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
   },
   headerText: {
-    color: '#fff', // You can customize the text color
+    color: '#fff',
     fontSize: 18,
     fontWeight: 'bold',
   },
